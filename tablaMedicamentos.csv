@@ -1,0 +1,4 @@
+idMedicamento,nombre,laboratorio,cantComprimidos,precio,cajas
+1,gadopril,gador,30,700,5
+2,enatral,lepetit,30,250,3
+3,,,0,0,NULL
